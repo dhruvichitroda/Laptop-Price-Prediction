@@ -1,17 +1,13 @@
-# Book Recommendation System
+# laptop -price-prediction
 
 ## Description
-Machine Learning based book recommendation system using collaborative filtering.
+Machine Learning based laptop -price-prediction  system
 
 ## Tech Stack
 - Python
 - Pandas
 - Scikit-learn
 - stremalit (if used)
-
-## Dataset
-Dataset is available here:
-[Google Drive Link]
 
 ## How to Run
 1. Install dependencies
